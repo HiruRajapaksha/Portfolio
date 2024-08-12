@@ -32,7 +32,7 @@ function Hero() {
             <br />
             Rajapaksha 
         </h1>
-        <h2>Front End Developer</h2>
+        <h2>Software Engineer</h2>
         <span>
             <a href="https://www.threads.net/@hiru__rajapaksha" target="_blank">
                 <img src={twitterIcon} alt="Twitter Icon" />
@@ -44,7 +44,7 @@ function Hero() {
                 <img src={linkedinIcon} alt="Linkedin Icon" />
             </a>
         </span>
-        <p className={styles.description}>I am a dedicated front-end developer with a passion for creating responsive and visually appealing websites.I enjoy turning design concepts into functional and engaging user experiences. Always eager to learn and adapt, I strive to deliver high-quality code and innovative solutions.</p>
+        <p className={styles.description}>I’m Hirushan, a final-year software engineering student at SLIIT City University, with a strong background in front-end development and growing expertise in back-end technologies. Passionate about creating efficient digital solutions, I specialize in crafting responsive, user-friendly interfaces and am now expanding into full-stack development. I’m eager to connect and collaborate on innovative projects that make a difference..</p>
         <a href={CV} download>
             <button className="hover">
                 Resume
