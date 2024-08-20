@@ -28,7 +28,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 30px;
+    gap: 80px;
 }
 
 @media (width >= 800px) {
